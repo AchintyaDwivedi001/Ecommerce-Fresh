@@ -6,7 +6,7 @@ It includes a hero banner, sidebar with hot deals and price filters, product gri
 ---
 
 ## 🚀 Live Demo
-[View on Vercel](https://your-app-name.vercel.app)
+[View on Vercel]https://ecommerce-fresh-7o7q.vercel.app/
 
 ---
 
@@ -29,5 +29,4 @@ It includes a hero banner, sidebar with hot deals and price filters, product gri
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/product-listing.git
-cd product-listing
+https://github.com/AchintyaDwivedi001/Ecommerce-Fresh
